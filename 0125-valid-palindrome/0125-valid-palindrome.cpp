@@ -1,14 +1,20 @@
 class Solution {
 public:
-    bool isPalindrome(std::string s) {
-        regex symbol_pattern("[^a-zA-Z0-9]");
-        s = regex_replace(s, symbol_pattern, "");
-        transform(s.begin(), s.end(), s.begin(), [](unsigned char c) {
-            return tolower(c);
-        });
+    bool isPalindrome(string s) {
         int n = s.length();
-        for (int i = 0; i < n / 2; i++) {
-            if (s[i] != s[n - i - 1]) return false;
+        int i = 0, j = n-1;
+        while(i<j) {
+            while(i<n && !isalnum(s[i])) i++;
+            while(j>=0 && !isalnum(s[j])) j--;
+            if(i<j) {
+                char a = s[i];
+                if(a>='A' && a<='Z') a = a-'A'+'a';
+                
+                char b = s[j];
+                if(b>='A' && b<='Z') b = b-'A'+'a';
+                if(a!=b) return false;
+            }
+            i++, j--;
         }
         return true;
     }
