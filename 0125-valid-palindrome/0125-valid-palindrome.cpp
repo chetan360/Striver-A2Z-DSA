@@ -7,12 +7,7 @@ public:
             while(i<n && !isalnum(s[i])) i++; //isalnum checks is it digit or alphabate
             while(j>=0 && !isalnum(s[j])) j--; //we inc i, j is it is not digit or alphabate
             if(i<j) {
-                char a = s[i];
-                if(a>='A' && a<='Z') a = tolower(a); //if s[i] is capitial then converted in small letter
-                
-                char b = s[j];
-                if(b>='A' && b<='Z') b = tolower(b);
-                if(a!=b) return false;
+                if(tolower(s[i])!=tolower(s[j])) return false;
             }
             i++, j--; //two pointers approch
         }
