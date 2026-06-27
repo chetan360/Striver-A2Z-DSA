@@ -4,17 +4,17 @@ public:
         int n = s.length();
         int i = 0, j = n-1;
         while(i<j) {
-            while(i<n && !isalnum(s[i])) i++;
-            while(j>=0 && !isalnum(s[j])) j--;
+            while(i<n && !isalnum(s[i])) i++; //isalnum checks is it digit or alphabate
+            while(j>=0 && !isalnum(s[j])) j--; //we inc i, j is it is not digit or alphabate
             if(i<j) {
                 char a = s[i];
-                if(a>='A' && a<='Z') a = a-'A'+'a';
+                if(a>='A' && a<='Z') a = tolower(a); //if s[i] is capitial then converted in small letter
                 
                 char b = s[j];
-                if(b>='A' && b<='Z') b = b-'A'+'a';
+                if(b>='A' && b<='Z') b = tolower(b);
                 if(a!=b) return false;
             }
-            i++, j--;
+            i++, j--; //two pointers approch
         }
         return true;
     }
