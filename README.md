@@ -40,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,8 +54,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
 <!---LeetCode Topics End-->
