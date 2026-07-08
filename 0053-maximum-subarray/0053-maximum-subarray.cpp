@@ -5,8 +5,8 @@ public:
         int max_sum = INT_MIN;
 
         // kadane's algorithm
-        for(int x: nums) {
-           curr_sum = max(x, curr_sum + x); 
+        for(int i=0; i<nums.size(); i++) {
+            curr_sum = max(nums[i], curr_sum + nums[i]); 
             max_sum = max(curr_sum, max_sum);
         }
 
