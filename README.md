@@ -71,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 <!---LeetCode Topics End-->
