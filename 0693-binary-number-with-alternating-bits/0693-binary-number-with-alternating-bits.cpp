@@ -1,13 +1,13 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
-        string bits = "";
-        bits += to_string(n%2);
+        int prev = n%2;
         n /= 2;
-        for(int i=1; n>0; i++) {
-            bits += to_string(n%2);
+        while(n>0) {
+            int curr = n%2;
+            if(prev == curr) return false;
+            prev = curr;
             n /= 2;
-            if(bits[i-1] == bits[i]) return false;
         }
 
         return true;
