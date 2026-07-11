@@ -10,6 +10,7 @@
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1952-three-divisors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2427-number-of-common-factors/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
