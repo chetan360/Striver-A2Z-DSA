@@ -14,6 +14,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1291-sequential-digits/) | Medium |
 | [1952-three-divisors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2427-number-of-common-factors/) | Easy |
 ## Number Theory
