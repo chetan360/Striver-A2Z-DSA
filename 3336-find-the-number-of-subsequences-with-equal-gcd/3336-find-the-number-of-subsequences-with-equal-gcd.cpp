@@ -12,14 +12,17 @@ public:
         for(int x:nums) {
             vector<vector<int>> ndp(m+1, vector<int>(m+1));
             for(int j=0; j<=m; j++) {
-                int divisor1 = gcd(j, x);
+                int g1 = gcd(j, x);
                 for(int k=0; k<=m; k++) {
                     int val = dp[j][k];
                     if(val==0) continue;
-                    int divisor2 = gcd(k, x);
+                    int g2 = gcd(k, x);
+                    // ignore
                     ndp[j][k] = (ndp[j][k]+val) % MOD;
-                    ndp[divisor1][k] = (ndp[divisor1][k]+val) % MOD;
-                    ndp[j][divisor2] = (ndp[j][divisor2]+val) % MOD;
+                    // store in seq1
+                    ndp[g1][k] = (ndp[g1][k]+val) % MOD;
+                    // store in seq2
+                    ndp[j][g2] = (ndp[j][g2]+val) % MOD;
                 }
             }
             dp.swap(ndp);
