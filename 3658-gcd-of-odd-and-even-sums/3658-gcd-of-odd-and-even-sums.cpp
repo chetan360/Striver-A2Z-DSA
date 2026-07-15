@@ -12,9 +12,11 @@ public:
         // return gcd(sumOdd, sumEven);
 
         // gcd of odd, even = gcd of n, n+1 (consecative numbers coprime) always 1
+        // gcd(x*a, x*b) = x*gcd(a,b)
+        // gcd(x, x*k) = x
         // sum of odd = n^2
         // sum of even = n*(n+1)
-        // gcd(n*n, n*(n+1)) = n*gcd(n, (n+1))
+        // gcd(n*n, n*(n+1)) = n*gcd(n,n+1) = n
         return n;
     }
 };
