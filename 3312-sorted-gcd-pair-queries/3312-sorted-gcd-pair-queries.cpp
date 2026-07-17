@@ -4,26 +4,38 @@ public:
     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
         int mx = *max_element(nums.begin(), nums.end());
         int m = *max_element(nums.begin(), nums.end());
+        
+        // counting freq
         vector<long long> cnt(m + 1);
         for (int num : nums) {
             cnt[num]++;
         }
+
+        // counting multiple of i
         for (int i = 1; i <= m; i++) {
             for (int j = i * 2; j <= m; j += i) {
                 cnt[i] += cnt[j];
             }
         }
+
+        // counting all paires nc2 = n*(n-1)/2
         for (int i = 1; i <= m; i++) {
             cnt[i] = cnt[i] * (cnt[i] - 1) / 2;
         }
+
+        // inclusion exclusion subtracting all multiple of i gcd paires
         for (int i = m; i >= 1; i--) {
             for (int j = i * 2; j <= m; j += i) {
                 cnt[i] -= cnt[j];
             }
         }
+
+        // Prefix sum to easily find the GCD for a given sorted query index
         for (int i = 1; i <= m; i++) {
             cnt[i] += cnt[i - 1];
         }
+
+        // // Find the first index where the cumulative count is strictly greater than q
         vector<int> ans;
         for (long long q : queries) {
             q++;
