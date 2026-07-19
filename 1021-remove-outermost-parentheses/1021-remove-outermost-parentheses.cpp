@@ -1,7 +1,7 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        stack<int>st;
+        stack<char>st;
         string ans="";
         for(char ch:s){
             if(ch=='(') {
