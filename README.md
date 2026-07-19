@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2427-number-of-common-factors/) | Easy |
@@ -58,6 +59,7 @@
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -132,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
