@@ -23,6 +23,7 @@ public:
                     continue;
                 
                 // agar startIdx se leke endIdx tak ka word
+                // set me he to queue endIdx dal ke seen true kardo
                 if(words.find(s.substr(st, ed-st)) != words.end()) {
                     q.push(ed);
                     seen[ed] = true;
