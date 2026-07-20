@@ -11,8 +11,11 @@ public:
         vector<vector<int>> ans(m, vector<int>(n));
         for(int i=0; i<m; i++) {
             for(int j=0; j<n; j++) {
+                // 1D flat idx
                 int flatIdx = (i*n+j+k) % totalElt;
+                // new row idx
                 int row = flatIdx / n;
+                // new col idx
                 int col = flatIdx % n;
                 ans[row][col] = grid[i][j];
             }
