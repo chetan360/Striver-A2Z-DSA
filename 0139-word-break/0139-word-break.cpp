@@ -1,23 +1,20 @@
 class Solution {
 public:
     bool wordBreak(string s, vector<string>& wordDict) {
-        // removing douplicate words
+        // douplicate words filter kardo
         unordered_set<string> words(wordDict.begin(), wordDict.end());
-        // treat string chars as nodes and perform BFS 
-        // queue to track start node
+        // chars ko as nodes mano and BFS perform karo 
+        
         queue<int> q;
-        // seen vector for visited nodes
         vector<bool> seen(s.length(), false);
-        // firts node
         q.push(0);
 
-        // if not empty
         while(!q.empty()) {
-            // start nikalo
             int st = q.front();
             q.pop();
 
             // start end tak chala gaya yani sub words he set me
+            // and string ke bhi end tak aa gaye last node of bfs
             if(st == s.length())
                 return true;
             
@@ -25,6 +22,7 @@ public:
                 if(seen[ed])
                     continue;
                 
+                // agar startIdx se leke endIdx tak ka word
                 if(words.find(s.substr(st, ed-st)) != words.end()) {
                     q.push(ed);
                     seen[ed] = true;
