@@ -67,6 +67,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
+| [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -96,6 +97,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
@@ -145,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
