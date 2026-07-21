@@ -54,6 +54,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -72,6 +73,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
