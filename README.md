@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -57,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -76,6 +78,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
+| [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
