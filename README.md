@@ -67,6 +67,7 @@
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -81,6 +82,7 @@
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -103,6 +105,7 @@
 | ------- | ------- |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0146-lru-cache/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -110,6 +113,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
@@ -130,6 +134,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
@@ -174,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +188,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
