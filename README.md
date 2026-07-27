@@ -100,6 +100,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -121,6 +122,7 @@
 | [0146-lru-cache](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
@@ -129,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
