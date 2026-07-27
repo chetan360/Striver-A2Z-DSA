@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
-        vector<int> freq(201,0);
+        unordered_map<int, int> freqMap;
         for(int x:nums)
-            freq[x+100]++;
+            freqMap[x]++;
         sort(nums.begin(), nums.end(), [&](int a, int b) {
-            if(freq[a+100] != freq[b+100])
-                return freq[a+100]<freq[b+100];    
+            if(freqMap[a] != freqMap[b])
+                return freqMap[a]<freqMap[b];    
             return a>b;
         });
 
