@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -71,6 +72,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0022-generate-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
@@ -119,6 +121,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
