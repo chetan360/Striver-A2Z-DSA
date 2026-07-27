@@ -23,6 +23,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3945-digit-frequency-score](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
+| [3945-digit-frequency-score](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
