@@ -75,6 +75,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -198,6 +199,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
