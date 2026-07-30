@@ -263,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0077-combinations](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0077-combinations/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
