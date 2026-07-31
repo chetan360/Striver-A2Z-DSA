@@ -121,6 +121,7 @@
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -140,6 +141,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Hash Table
