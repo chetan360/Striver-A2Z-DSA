@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -52,12 +53,14 @@
 | [0022-generate-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
+| [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -114,6 +117,7 @@
 | [0283-move-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -295,4 +299,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
