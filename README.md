@@ -14,6 +14,7 @@
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -55,6 +56,7 @@
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@
 | [0645-set-mismatch](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -313,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
