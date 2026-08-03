@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -64,6 +65,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
