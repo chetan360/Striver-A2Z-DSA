@@ -305,10 +305,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,4 +347,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1406-stone-game-iii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
