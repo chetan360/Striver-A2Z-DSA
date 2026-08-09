@@ -126,6 +126,7 @@
 | [0027-remove-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0136-single-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -215,6 +216,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0645-set-mismatch/) | Easy |
