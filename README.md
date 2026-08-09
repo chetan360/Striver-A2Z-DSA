@@ -133,6 +133,7 @@
 | [0283-move-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
