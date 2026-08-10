@@ -19,6 +19,7 @@
 | [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -67,6 +68,7 @@
 | [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
@@ -352,6 +354,7 @@
 | [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,11 +368,13 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,4 +387,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
