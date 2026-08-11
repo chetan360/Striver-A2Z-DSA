@@ -1,15 +1,15 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int curr_sum = nums[0];
-        int max_sum = nums[0];
-
-        // kadane's algorithm
-        for(int i=1; i<nums.size(); i++) {
-            curr_sum = max(nums[i], curr_sum + nums[i]); 
-            max_sum = max(curr_sum, max_sum);
+        //kadane's algorithm
+        int sum=0;
+        int maxSum=INT_MIN;
+        for(int x:nums) {
+            sum += x;
+            maxSum = max(maxSum, sum);
+            if(sum<0) sum=0;
         }
-
-        return max_sum;
+        
+        return maxSum;
     }
 };
