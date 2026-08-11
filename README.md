@@ -89,6 +89,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -131,6 +132,7 @@
 | [0027-remove-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -236,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -400,4 +403,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
