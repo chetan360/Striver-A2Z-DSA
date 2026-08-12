@@ -98,6 +98,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -163,6 +164,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -225,6 +227,7 @@
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
