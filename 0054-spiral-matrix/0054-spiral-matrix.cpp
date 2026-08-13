@@ -15,13 +15,13 @@ public:
                 ans.push_back(matrix[i][right]);
             }
             right--;
-            if(top<=bottom) {
+            if(top<=bottom) { //top cross bottom (row matrix case)
                 for(int i=right; i>=left; i--) {
                     ans.push_back(matrix[bottom][i]);
                 }
                 bottom--;
             }
-            if(left<=right) {
+            if(left<=right) { //right cross left (col matrix case)
                 for(int i=bottom; i>=top; i--) {
                     ans.push_back(matrix[i][left]);
                 }
