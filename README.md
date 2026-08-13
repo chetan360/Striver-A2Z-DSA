@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
@@ -134,6 +135,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -325,6 +327,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
