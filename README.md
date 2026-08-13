@@ -138,6 +138,7 @@
 | [0056-merge-intervals](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0169-majority-element/) | Easy |
@@ -195,6 +196,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0169-majority-element/) | Easy |
@@ -363,6 +365,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
