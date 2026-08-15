@@ -115,6 +115,7 @@
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -211,6 +212,7 @@
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -272,6 +274,7 @@
 | [0056-merge-intervals](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
