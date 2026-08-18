@@ -475,6 +475,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
