@@ -53,6 +53,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Counting
@@ -280,6 +283,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +387,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
