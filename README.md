@@ -131,6 +131,7 @@
 | [0125-valid-palindrome](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0179-largest-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -175,6 +176,7 @@
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0229-majority-element-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -325,6 +327,7 @@
 | [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
@@ -381,6 +384,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0179-largest-number/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
