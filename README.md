@@ -205,6 +205,7 @@
 | [1539-kth-missing-positive-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1872-stone-game-viii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
