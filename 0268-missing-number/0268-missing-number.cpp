@@ -1,13 +1,13 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        unordered_map<int, int> freq;
-        for(int x:nums)
-            freq[x]++;
-        int n = nums.size();
-        for(int i=0; i<=n; i++)
-            if(freq[i]==0)
-                return i;
-        return -1;
+        int xor1=0, xor2=0;
+        int n=nums.size();
+        for(int i=0; i<n; i++) {
+            xor1^=nums[i];
+            xor2^=i;
+        }
+        xor2^=n;
+        return xor1^xor2;
     }
 };
