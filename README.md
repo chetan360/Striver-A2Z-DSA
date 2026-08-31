@@ -370,6 +370,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0146-lru-cache](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0146-lru-cache/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
