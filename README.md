@@ -226,6 +226,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -273,6 +274,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3692-majority-frequency-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -320,6 +322,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -413,6 +416,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +458,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
