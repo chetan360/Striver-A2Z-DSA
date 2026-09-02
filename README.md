@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
@@ -240,6 +241,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -569,4 +571,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
