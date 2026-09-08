@@ -1,10 +1,12 @@
 class Solution {
 public:
     int countCommas(int n) {
-        int comma=0;
-        for(int i=1; i<=n; i++) {
-            if(i>=1000) comma++;
-        }
-        return comma;
+        // int comma=0;
+        // for(int i=1; i<=n; i++) {
+        //     if(i>=1000) comma++;
+        // }
+        // return comma;
+
+        return max(n-999, 0);
     }
 };
