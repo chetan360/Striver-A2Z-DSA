@@ -477,6 +477,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -546,10 +547,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
