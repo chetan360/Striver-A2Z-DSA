@@ -212,6 +212,7 @@
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0835-image-overlap](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1140-stone-game-ii/) | Medium |
@@ -448,6 +449,7 @@
 | [0054-spiral-matrix](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0835-image-overlap](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Trie
