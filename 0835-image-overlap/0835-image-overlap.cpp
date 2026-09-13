@@ -21,3 +21,39 @@ public:
         return best;
     }
 };
+
+// I first walk through both images and collect the coordinates of every cell that holds a 1. Call the lists A for img1 and B for img2.
+
+// Then I consider every pair (a from A, b from B). The shift that would move a exactly onto b is simply
+
+// dx = b.row - a.row
+// dy = b.col - a.col
+
+// I keep a counter of how many pairs produce each (dx, dy). The highest count I ever see is the answer, because that many 1s will land on top of each other under that exact shift. Bits that slide outside the matrix simply never appear in any pair, so they are automatically ignored.
+
+// Here is the small example from the problem worked out by hand:
+
+// img1 1s: (0,0) (0,1) (1,1) (2,1)
+// img2 1s: (1,1) (1,2) (2,2)
+
+// Pairs and the shifts they need:
+
+// (0,0) -> (1,1) : dx=1, dy=1 //ans=1
+// (0,0) -> (1,2) : dx=1, dy=2
+// (0,0) -> (2,2) : dx=2, dy=2
+// (0,1) -> (1,1) : dx=1, dy=0
+// (0,1) -> (1,2) : dx=1, dy=1 //ans=2
+// (0,1) -> (2,2) : dx=2, dy=1
+// (1,1) -> (1,1) : dx=0, dy=0
+// (1,1) -> (1,2) : dx=0, dy=1
+// (1,1) -> (2,2) : dx=1, dy=1 //ans=3
+// (2,1) -> (1,1) : dx=-1, dy=0
+// (2,1) -> (1,2) : dx=-1, dy=1
+// (2,1) -> (2,2) : dx=0, dy=1
+
+// Counting the shifts:
+
+// (1,1) appears three times
+// everything else appears once
+
+// So the largest overlap is 3, which matches the official answer. The same shift (1,1) lines up three different pairs of 1s at once.
