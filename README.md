@@ -34,6 +34,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2427-number-of-common-factors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2427-number-of-common-factors/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -245,6 +246,7 @@
 | [2404-most-frequent-even-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -306,6 +308,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -466,6 +469,7 @@
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
