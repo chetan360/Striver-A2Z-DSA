@@ -200,6 +200,7 @@
 | [0066-plus-one](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -281,6 +282,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
