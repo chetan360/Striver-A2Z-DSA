@@ -190,6 +190,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0053-maximum-subarray/) | Medium |
@@ -275,6 +276,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
