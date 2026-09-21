@@ -212,6 +212,7 @@
 | [0136-single-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -286,6 +287,7 @@
 | [0035-search-insert-position](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
