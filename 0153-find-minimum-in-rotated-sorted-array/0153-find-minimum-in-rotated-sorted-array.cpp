@@ -6,7 +6,10 @@ public:
         int mini = INT_MAX;
         while(l<=h) {
             int mid=l+(h-l)/2;
-            mini=min(nums[mid], mini);
+            if(nums[l]<=nums[h]) { //entire segment of arr is sorted
+                mini = min(mini, nums[l]);
+                break;
+            }
             
             if(nums[l]<=nums[mid]) { //left is sorted
                 mini = min(mini, nums[l]);
