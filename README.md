@@ -167,6 +167,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -250,6 +251,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -332,6 +334,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
