@@ -166,6 +166,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -473,6 +474,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -667,4 +669,8 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
