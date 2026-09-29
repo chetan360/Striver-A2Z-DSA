@@ -105,6 +105,7 @@
 | [1563-stone-game-v](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -260,6 +261,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2404-most-frequent-even-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -506,6 +508,7 @@
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Trie
@@ -673,4 +676,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
