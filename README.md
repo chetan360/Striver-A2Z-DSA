@@ -162,6 +162,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -557,6 +558,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -571,6 +573,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0077-combinations/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Counting Sort
