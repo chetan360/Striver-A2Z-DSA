@@ -27,6 +27,7 @@
 | [1406-stone-game-iii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -105,6 +106,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -127,6 +129,7 @@
 | ------- | ------- |
 | [0139-word-break](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +259,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -403,6 +407,7 @@
 | [0169-majority-element](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,6 +462,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -595,6 +601,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -654,11 +661,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -715,4 +724,12 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
