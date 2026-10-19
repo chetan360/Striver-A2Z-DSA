@@ -16,6 +16,7 @@
 | [0231-power-of-two](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0326-power-of-three/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0486-predict-the-winner](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -417,6 +418,7 @@
 | [0136-single-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
