@@ -257,6 +257,7 @@
 | [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -557,6 +558,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -601,6 +603,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -609,6 +612,7 @@
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
@@ -616,6 +620,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Backtracking
