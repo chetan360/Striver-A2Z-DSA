@@ -256,6 +256,7 @@
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0835-image-overlap](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0835-image-overlap/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1140-stone-game-ii/) | Medium |
@@ -337,6 +338,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
