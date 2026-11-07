@@ -155,6 +155,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -179,6 +180,7 @@
 | [0179-largest-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
