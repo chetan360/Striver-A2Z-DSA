@@ -282,6 +282,7 @@
 | [1539-kth-missing-positive-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -434,6 +435,7 @@
 | [0054-spiral-matrix](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0067-add-binary/) | Easy |
 | [1260-shift-2d-grid](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -628,6 +630,7 @@
 | [0692-top-k-frequent-words](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -759,6 +762,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0493-reverse-pairs/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
