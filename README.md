@@ -280,6 +280,7 @@
 | [1406-stone-game-iii](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -364,6 +365,7 @@
 | [0704-binary-search](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
