@@ -198,6 +198,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2390-removing-stars-from-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -450,6 +451,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -569,6 +571,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
