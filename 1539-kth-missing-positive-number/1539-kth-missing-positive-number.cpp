@@ -1,20 +1,13 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        unordered_map<int,int> freq;
-        for(int x:arr)
-            freq[x]++;
-        int mx = *max_element(arr.begin(), arr.end());
-        int counter=0;
-        int kth = -1;
-        for(int i=1; i<=mx+k; i++) {
-            if(freq[i]==0) {
-                counter++;
-                if(counter==k)
-                    kth = i;
-            }
+        int l=0, r=arr.size();
+        while(l<r) {
+            int mid = l+(r-l)/2;
+            if(arr[mid]-mid-1<k) l = mid+1;
+            else r = mid;
         }
 
-        return kth;
+        return r+k;
     }
 };
