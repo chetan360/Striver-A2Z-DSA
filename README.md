@@ -198,6 +198,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/1927-sum-game/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/chetan360/Striver-A2Z-DSA/tree/main/2409-count-days-spent-together/) | Easy |
